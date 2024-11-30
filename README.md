@@ -34,10 +34,63 @@ O objetivo futuro da plataforma é evoluir para uma rede social focada em produ�
 
 ---
 
+## **Requisitos Funcionais**
+
+- **RF-1: Cadastrar usuário.**  
+  Permitir que novos usuários se cadastrem utilizando e-mail, nome de usuário e senha.
+
+- **RF-2: Autenticação de usuário.**  
+  Exigir autenticação dos usuários cadastrados para acessar funcionalidades restritas, como criar postagens e interagir com conteúdos.
+
+- **RF-3: Envio de arquivos de áudio.**  
+  Permitir que usuários autenticados enviem arquivos de áudio.
+
+- **RF-4: Validação de arquivos com copyright.**  
+  Garantir que arquivos de áudio enviados sejam validados para evitar violação de direitos autorais.
+
+- **RF-5: Download de arquivos de áudio.**  
+  Permitir o download de qualquer arquivo de áudio publicado na plataforma.
+
+- **RF-6: Reprodução de arquivos de áudio.**  
+  Habilitar a reprodução de arquivos de áudio publicados diretamente na plataforma.
+
+- **RF-7: Exibição do tamanho dos arquivos.**  
+  Exibir o tamanho em disco dos arquivos de áudio antes de fazer o download.
+
+- **RF-8: Curtidas em publicações.**  
+  Permitir que usuários autenticados curtam publicações de outros usuários.
+
+- **RF-9: Log Off.**  
+  Permitir que o usuário encerre sua sessão na plataforma.
+
+- **RF-10: Criar playlists.**  
+  Permitir que usuários criem playlists personalizadas para organizar suas músicas.
+
+- **RF-11: Excluir playlists.**  
+  Permitir que os usuários excluam playlists criadas por eles.
+
+- **RF-12: Gerenciar músicas em playlists.**  
+  Permitir que os usuários adicionem ou removam músicas de suas playlists.
+
+- **RF-13: Seguir usuários.**  
+  Permitir que os usuários sigam o perfil de outros usuários para acompanhar suas publicações.
+
+- **RF-14: Deixar de seguir usuários.**  
+  Permitir que os usuários deixem de seguir outros perfis previamente seguidos.
+
+---
+
+## **Requisitos Não Funcionais**
+
+- **RNF-1: Interface intuitiva.**  
+  Garantir que o sistema tenha uma interface fácil de usar, com foco em visualização clara de respostas de publicações e músicas em reprodução.
+
+---
+
 ## **Diagrama de Caso de Uso**
 ![caso de uso](https://github.com/user-attachments/assets/f19bf5fd-651d-4077-bfdd-fed2199931af)
 
-## **Diagrama de Caso de Uso**
+## **Diagrama de Contexto**
 ![Diagrama de contexto](https://github.com/user-attachments/assets/e15050ac-1040-42d0-9f6e-3bc1474b5b61)
 
 ---
@@ -60,5 +113,3 @@ O objetivo futuro da plataforma é evoluir para uma rede social focada em produ�
 - **Credenciais de Acesso:**  
   - **Usuário:** `admin`  
   - **Senha:** `admin123`
-
----
