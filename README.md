@@ -40,7 +40,7 @@ O objetivo futuro da plataforma é evoluir para uma rede social focada em produ�
   Permitir que novos usuários se cadastrem utilizando e-mail, nome de usuário e senha.
 
 - **RF-2: Autenticação de usuário.**  
-  Exigir autenticação dos usuários cadastrados para acessar funcionalidades restritas, como criar postagens e interagir com conteúdos.
+  Exigir autenticação dos usuários cadastrados para acessar funcionalidades restritas, como enviar músicas e criar playlists.
 
 - **RF-3: Envio de arquivos de áudio.**  
   Permitir que usuários autenticados enviem arquivos de áudio.
@@ -55,10 +55,10 @@ O objetivo futuro da plataforma é evoluir para uma rede social focada em produ�
   Habilitar a reprodução de arquivos de áudio publicados diretamente na plataforma.
 
 - **RF-7: Exibição do tamanho dos arquivos.**  
-  Exibir o tamanho em disco dos arquivos de áudio antes de fazer o download.
+  Exibir o tamanho em disco dos arquivos de áudio antes de fazer o upload.
 
 - **RF-8: Curtidas em publicações.**  
-  Permitir que usuários autenticados curtam publicações de outros usuários.
+  Permitir que usuários autenticados curtam músicas de outros usuários.
 
 - **RF-9: Log Off.**  
   Permitir que o usuário encerre sua sessão na plataforma.
