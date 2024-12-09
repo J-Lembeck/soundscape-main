@@ -95,6 +95,10 @@ O objetivo futuro da plataforma é evoluir para uma rede social focada em produ�
 
 ---
 
+## **Acesso à Aplicação**
+
+- Link de acesso: [SoundScape](https://soundscape-project.tech/)
+
 ## **Repositórios Relacionados**
 
 ### **Frontend**
