@@ -103,11 +103,11 @@ O objetivo futuro da plataforma é evoluir para uma rede social focada em produ�
 
 ### **Frontend**
 - Repositório: [Soundscape Frontend](https://github.com/J-Lembeck/soundscape-front)
-- [SonarCloud Dashboard](https://sonarcloud.io/project/overview?id=J-Lembeck_soundscape-front)
+- [SonarCloud Dashboard](https://sonarcloud.io/summary/overall?id=J-Lembeck_soundscape-front&branch=master)
 
 ### **Backend**
 - Repositório: [Soundscape Backend](https://github.com/J-Lembeck/soundscape-back)
-- [SonarCloud Dashboard](https://sonarcloud.io/project/overview?id=J-Lembeck_soundscape-back)
+- [SonarCloud Dashboard](https://sonarcloud.io/summary/overall?id=J-Lembeck_soundscape-back&branch=master)
 
 ### **Design**
 - **Figma:** [Soundscape Design](https://www.figma.com/design/ecYGRVUcnXh2Zn6PqvzSnL/SoundScape?node-id=3-11&node-type=CANVAS&t=nqD1d4L04pCiMFq3-0)
