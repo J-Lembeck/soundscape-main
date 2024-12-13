@@ -88,7 +88,10 @@ O objetivo futuro da plataforma √© evoluir para uma rede social focada em produ√
 ---
 
 ## **Diagrama de Caso de Uso**
-![caso de uso](https://github.com/user-attachments/assets/d1aecf84-00bb-4b15-90da-3e05121b35ff)
+![caso de uso](https://github.com/user-attachments/assets/a3ec9250-c0da-4a34-b89d-a00173fc3710)
+
+## **Diagrama DER**
+![DER](https://github.com/user-attachments/assets/65fd4fa8-ecd0-4d5a-bce8-37d45b4fdf89)
 
 ## **Diagrama de Contexto**
 ![Diagrama de contexto](https://github.com/user-attachments/assets/e15050ac-1040-42d0-9f6e-3bc1474b5b61)
